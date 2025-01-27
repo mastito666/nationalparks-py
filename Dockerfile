@@ -1,4 +1,4 @@
-FROM centos/python-36-centos7:master
+FROM docker.io/centos/python-36-centos7
 
 USER root
 
